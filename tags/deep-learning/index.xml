@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning on Home</title>
+    <link>https://Venura-94.github.io/tags/deep-learning/</link>
+    <description>Recent content in Deep Learning on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Apr 2024 10:58:08 -0400</lastBuildDate>
+    <atom:link href="https://Venura-94.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Road Sign Classification with Convolutional Neural Networks</title>
+      <link>https://Venura-94.github.io/post/chapter-9/</link>
+      <pubDate>Mon, 01 Apr 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/post/chapter-9/</guid>
+      <description>Introduction In this project, I utilized Convolutional Neural Networks (CNNs) to classify 43 different traffic sign images. The goal was to create a model with practical applications, especially in the context of self-driving cars. Below is a summary of the steps involved in the project.&#xA;1. Understanding Image Data I began by importing necessary libraries and datasets. However, due to the large size of the dataset, it wasn&amp;rsquo;t feasible to include it in the GitHub repository.</description>
+    </item>
+  </channel>
+</rss>

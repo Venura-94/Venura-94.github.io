@@ -23,6 +23,13 @@
       <description>Seamless mobility between different radio access networks is required in the next-generation cellular and wireless heterogeneous environments to provide uninterrupted service to the user. Maintaining the Quality of Service (QoS) required per application during the handover process in between different access networks (Vertical Handover) and, optimizing the power consumption in a mobile terminal during the vertical handover process in a heterogeneous environment are quite challenging. The proposed method uses a Fuzzy Logic-based vertical handover decision algorithm which assesses multiple input parameters and determines the most desirable network preference between LTE and WLAN to perform the handover.</description>
     </item>
     <item>
+      <title>Road Sign Classification with Convolutional Neural Networks</title>
+      <link>https://Venura-94.github.io/post/chapter-9/</link>
+      <pubDate>Mon, 01 Apr 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/post/chapter-9/</guid>
+      <description>Introduction In this project, I utilized Convolutional Neural Networks (CNNs) to classify 43 different traffic sign images. The goal was to create a model with practical applications, especially in the context of self-driving cars. Below is a summary of the steps involved in the project.&#xA;1. Understanding Image Data I began by importing necessary libraries and datasets. However, due to the large size of the dataset, it wasn&amp;rsquo;t feasible to include it in the GitHub repository.</description>
+    </item>
+    <item>
       <title>End-to-End-Loan Default Risk Prediction</title>
       <link>https://Venura-94.github.io/post/chapter-7/</link>
       <pubDate>Sat, 30 Mar 2024 10:58:08 -0400</pubDate>
