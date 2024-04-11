@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python and Staistics on Home</title>
+    <link>http://localhost:1313/tags/python-and-staistics/</link>
+    <description>Recent content in Python and Staistics on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/tags/python-and-staistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Similarity Based Food Recommendation System</title>
+      <link>http://localhost:1313/post/chapter-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/chapter-8/</guid>
+      <description>Focus of the Project The focus of this project is to determine the similarity between users and recommend items based on food interactions by other similar users.&#xA;Project Structure Task 1: Understand collaborative filtering and data collection methods for building a recommendation system. Load necessary libraries and datasets into the Jupyter Notebook session. Task 2: Conduct exploratory data analysis on the dataset. Analyze user interactions with items, such as identifying the most interacted item and users with the highest interaction counts.</description>
+    </item>
+  </channel>
+</rss>

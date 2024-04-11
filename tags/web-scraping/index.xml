@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Scraping on Home</title>
+    <link>https://Venura-94.github.io/tags/web-scraping/</link>
+    <description>Recent content in Web Scraping on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Dec 2023 10:58:08 -0400</lastBuildDate>
+    <atom:link href="https://Venura-94.github.io/tags/web-scraping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analyzing Total Revenue and Stock Price Trends of Tesla and GameStop</title>
+      <link>https://Venura-94.github.io/post/chapter-6/</link>
+      <pubDate>Sat, 30 Dec 2023 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/post/chapter-6/</guid>
+      <description>The &amp;ldquo;Extracting-and-Visualizing-Stock-Data&amp;rdquo; project aims to provide a comprehensive analysis of the stock performance and revenue trends of Tesla and GameStop. Leveraging a combination of Python libraries including BeautifulSoup for web scraping and yfinance for accessing stock data, this project delves into various aspects to offer insights into the financial performance of these companies.&#xA;Extracting Tesla Stock Data Utilizing the yfinance library, the project extracts historical stock data of Tesla, including opening and closing prices, trading volume, and other relevant metrics.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi Im Venura Pussella on Home</title>
+    <link>https://Venura-94.github.io/</link>
+    <description>Recent content in Hi Im Venura Pussella on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 05 Apr 2024 10:58:08 -0400</lastBuildDate>
+    <atom:link href="https://Venura-94.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Similarity Based Food Recommendation System</title>
+      <link>https://Venura-94.github.io/post/chapter-8/</link>
+      <pubDate>Fri, 05 Apr 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/post/chapter-8/</guid>
+      <description>Focus of the Project The focus of this project is to determine the similarity between users and recommend items based on food interactions by other similar users.&#xA;Project Structure Task 1: Understand collaborative filtering and data collection methods for building a recommendation system. Load necessary libraries and datasets into the Jupyter Notebook session. Task 2: Conduct exploratory data analysis on the dataset. Analyze user interactions with items, such as identifying the most interacted item and users with the highest interaction counts.</description>
+    </item>
+    <item>
+      <title>QoS Aware Energy Efficient Vertical Handover Approach in LTE/WLAN Heterogeneous Networks</title>
+      <link>https://Venura-94.github.io/publication/chapter-1/</link>
+      <pubDate>Mon, 01 Apr 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/publication/chapter-1/</guid>
+      <description>Seamless mobility between different radio access networks is required in the next-generation cellular and wireless heterogeneous environments to provide uninterrupted service to the user. Maintaining the Quality of Service (QoS) required per application during the handover process in between different access networks (Vertical Handover) and, optimizing the power consumption in a mobile terminal during the vertical handover process in a heterogeneous environment are quite challenging. The proposed method uses a Fuzzy Logic-based vertical handover decision algorithm which assesses multiple input parameters and determines the most desirable network preference between LTE and WLAN to perform the handover.</description>
+    </item>
+    <item>
+      <title>End-to-End-Loan Default Risk Prediction</title>
+      <link>https://Venura-94.github.io/post/chapter-7/</link>
+      <pubDate>Sat, 30 Mar 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/post/chapter-7/</guid>
+      <description>Target Audience Empowering banks with critical insights into factors influencing loan defaults, predictive model aims to refine loan authorization processes and risk assessments.&#xA;Link to GitHub&#xA;Learning Outcomes: Applied machine learning, model creation, error reduction and tuning techniques (supervised learning) Machine Learning Pipelines (Training Pipeline, Prediction pipeline (inference Pipeline)) AWS / Github actions (CI/CD) Docker Python virtual environments Basic web development Flask How to maintain folder architecture for production ready projects Check github to see the pipelines &amp;amp; AWS delpoyment architectures Model Deployment Explanation: Local Development (PC using Git):</description>
+    </item>
+    <item>
+      <title>Ensemble Learning</title>
+      <link>https://Venura-94.github.io/publication/chapter-4/</link>
+      <pubDate>Fri, 29 Mar 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/publication/chapter-4/</guid>
+      <description>This article provides an overview of ensemble learning algorithms through a course available on LinkedIn Learning, instructed by Derek Jedamski. The course assumes familiarity with individual machine learning algorithms such as logistic regression, support vector machines, MLP, and random forest. The summary delves into three prominent ensemble methods: Boosting, Bagging, and Stacking, elucidating their mechanisms, applications, and effectiveness in reducing prediction errors. Boosting involves sequentially learning weak models, leveraging their collective knowledge to form a robust final model.</description>
+    </item>
+    <item>
+      <title>Interactive Dashboards to Understand Data Scientist Job Locations and Job Types in 2024</title>
+      <link>https://Venura-94.github.io/post/chapter-3/</link>
+      <pubDate>Mon, 25 Mar 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/post/chapter-3/</guid>
+      <description>Project Structure&#xA;Task 1: Obtained the dataset from Kaggle, ensuring we had the necessary data to analyze.&#xA;Task 2: Transformed simple Python scripts into web applications, making the analysis accessible through a user-friendly interface.&#xA;Task 3: Loaded the dataset containing job data for data scientists in 2024, preparing it for visualization.&#xA;Task 4: Implemented functionality to display job types in the sidebar, enhancing user navigation and interaction.&#xA;Task 5: Developed interactive bar plots and pie charts to visually represent key insights from the data.</description>
+    </item>
+    <item>
+      <title>Retrieval Queries in MySQL Workbench</title>
+      <link>https://Venura-94.github.io/post/chapter-5/</link>
+      <pubDate>Mon, 25 Mar 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/post/chapter-5/</guid>
+      <description>MySQL Project Workbench, your ultimate solution for effortlessly crafting and executing complex retrieval queries. Throughout this project, I&amp;rsquo;ve delved into various aspects of database querying, honing my skills and expertise. Here&amp;rsquo;s a glimpse into the tasks undertaken:&#xA;EER Diagram: Visual representation aiding in database design and understanding.&#xA;Joining with Where Clause: Utilizing WHERE clause for precise data retrieval through table joins.&#xA;Join with Join Statements: Exploring inner and outer joins to extract matched and unmatched data from multiple tables.</description>
+    </item>
+    <item>
+      <title>HR Morning Email Automation</title>
+      <link>https://Venura-94.github.io/post/chapter-2/</link>
+      <pubDate>Sat, 23 Mar 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/post/chapter-2/</guid>
+      <description>In this project, I developed an Email Automation Package using Python with various functionalities. Here&amp;rsquo;s a breakdown of the tasks carried out:&#xA;Task 1: Retrieving Content from the Internet Automated the extraction of random quotes and saved them to a CSV file using web scraping techniques with BeautifulSoup. Integrated weather forecast retrieval for a one-day period within a three-hour time frame using a REST API. Implemented a random learning generator utilizing Wikipedia&amp;rsquo;s REST API.</description>
+    </item>
+    <item>
+      <title>Exploring Base Dimension Reduction PCA Technique for Going Forward in ML</title>
+      <link>https://Venura-94.github.io/publication/chapter-3/</link>
+      <pubDate>Tue, 12 Mar 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/publication/chapter-3/</guid>
+      <description>Delving into the fascinating world of clustering projects, I found myself intrigued by Principal Component Analysis (PCA), prompting me to consider it as a subject for an upcoming blog. PCA, a linear method, aims to retain a dataset&amp;rsquo;s variance while reducing its dimensionality by transforming initial features into uncorrelated primary components. This technique proves invaluable in scenarios where datasets exhibit high dimensionality, making it challenging to see underlying patterns. By standardizing the dataset and following a stepwise approach, PCA facilitates the identification of principal components, which capture the highest variance in the data.</description>
+    </item>
+    <item>
+      <title>Mastering DevOps Magic with GitHub Actions CI/CD</title>
+      <link>https://Venura-94.github.io/publication/chapter-2/</link>
+      <pubDate>Fri, 23 Feb 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/publication/chapter-2/</guid>
+      <description>Embarking on the captivating journey of machine learning (ML) entails not only solving complex problems but also mastering the art of managing ML projects effectively. In this blog, I advocate for following Abid Ali Awan&amp;rsquo;s comprehensive guide on CI/CD concepts and GitHub Actions to acquaint oneself with these invaluable tools in the context of ML.&#xA;CI/CD, short for Continuous Integration and Continuous Development, through GitHub Actions, offers a plethora of benefits in the realm of ML:</description>
+    </item>
+    <item>
+      <title>Wholesale Distributor Customer Segmentation Analysis to Optimize the Delivery Service &amp; Strategies</title>
+      <link>https://Venura-94.github.io/post/chapter-4/</link>
+      <pubDate>Thu, 15 Feb 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/post/chapter-4/</guid>
+      <description>Overview In this project, i analyzed a dataset containing data on various customers&amp;rsquo; annual spending amounts across diverse product categories. The goal is to identify distinct customer segments and derive insights to inform business strategies, particularly in optimizing delivery services.&#xA;Data Analysis and Preprocessing Explored the dataset to understand customer spending behavior and preferences. Box-Cox Transformed Outlier Removal Employed techniques like Principal Component Analysis (PCA) to reduce dimensionality and uncover underlying structures.</description>
+    </item>
+    <item>
+      <title>Analyzing Total Revenue and Stock Price Trends of Tesla and GameStop</title>
+      <link>https://Venura-94.github.io/post/chapter-6/</link>
+      <pubDate>Sat, 30 Dec 2023 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/post/chapter-6/</guid>
+      <description>The &amp;ldquo;Extracting-and-Visualizing-Stock-Data&amp;rdquo; project aims to provide a comprehensive analysis of the stock performance and revenue trends of Tesla and GameStop. Leveraging a combination of Python libraries including BeautifulSoup for web scraping and yfinance for accessing stock data, this project delves into various aspects to offer insights into the financial performance of these companies.&#xA;Extracting Tesla Stock Data Utilizing the yfinance library, the project extracts historical stock data of Tesla, including opening and closing prices, trading volume, and other relevant metrics.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://Venura-94.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Venura-94.github.io/about/</guid>
+      <description>Enthusiastic about the relationship that exists between mathematics and storytelling, and I&amp;rsquo;ve learned that mathematical solutions are stories waiting to be told rather than just sets of numbers. As I continue to explore the world of deep learning and artificial intelligence, I am thrilled when I can bring these stories to life in the hidden dimensions of data. I have a strong desire to create precise models and I want to share my passion for doing so with the world to improve society and make life easier for humans.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://Venura-94.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Venura-94.github.io/contact/</guid>
+      <description> Platform LinkedIn Medium GitHub </description>
+    </item>
+    <item>
+      <title>Impact of Selected International HRM Practices on Expatriates Job Performance</title>
+      <link>https://Venura-94.github.io/post/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Venura-94.github.io/post/chapter-1/</guid>
+      <description>This project focuses on analyzing the impact of International Human Resource Practices (IHRP) on Expatriates&amp;rsquo; Job Performance within ABC (Pvt) Ltd. The study examines three key factors of IHRP: international training and development, international performance appraisals, and international compensations. Through a sample of 60 respondents, the study utilizes SPSS version 22 for data analysis. The analysis encompasses reliability and validity testing of instruments, demographic profiling of expatriates, frequency distribution analysis for both IHRP and job performance, hypotheses testing, implications, recommendations, and limitations.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Home</title>
+    <link>https://Venura-94.github.io/publication/</link>
+    <description>Recent content in Publications on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Apr 2024 10:58:08 -0400</lastBuildDate>
+    <atom:link href="https://Venura-94.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QoS Aware Energy Efficient Vertical Handover Approach in LTE/WLAN Heterogeneous Networks</title>
+      <link>https://Venura-94.github.io/publication/chapter-1/</link>
+      <pubDate>Mon, 01 Apr 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/publication/chapter-1/</guid>
+      <description>Seamless mobility between different radio access networks is required in the next-generation cellular and wireless heterogeneous environments to provide uninterrupted service to the user. Maintaining the Quality of Service (QoS) required per application during the handover process in between different access networks (Vertical Handover) and, optimizing the power consumption in a mobile terminal during the vertical handover process in a heterogeneous environment are quite challenging. The proposed method uses a Fuzzy Logic-based vertical handover decision algorithm which assesses multiple input parameters and determines the most desirable network preference between LTE and WLAN to perform the handover.</description>
+    </item>
+    <item>
+      <title>Ensemble Learning</title>
+      <link>https://Venura-94.github.io/publication/chapter-4/</link>
+      <pubDate>Fri, 29 Mar 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/publication/chapter-4/</guid>
+      <description>This article provides an overview of ensemble learning algorithms through a course available on LinkedIn Learning, instructed by Derek Jedamski. The course assumes familiarity with individual machine learning algorithms such as logistic regression, support vector machines, MLP, and random forest. The summary delves into three prominent ensemble methods: Boosting, Bagging, and Stacking, elucidating their mechanisms, applications, and effectiveness in reducing prediction errors. Boosting involves sequentially learning weak models, leveraging their collective knowledge to form a robust final model.</description>
+    </item>
+    <item>
+      <title>Exploring Base Dimension Reduction PCA Technique for Going Forward in ML</title>
+      <link>https://Venura-94.github.io/publication/chapter-3/</link>
+      <pubDate>Tue, 12 Mar 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/publication/chapter-3/</guid>
+      <description>Delving into the fascinating world of clustering projects, I found myself intrigued by Principal Component Analysis (PCA), prompting me to consider it as a subject for an upcoming blog. PCA, a linear method, aims to retain a dataset&amp;rsquo;s variance while reducing its dimensionality by transforming initial features into uncorrelated primary components. This technique proves invaluable in scenarios where datasets exhibit high dimensionality, making it challenging to see underlying patterns. By standardizing the dataset and following a stepwise approach, PCA facilitates the identification of principal components, which capture the highest variance in the data.</description>
+    </item>
+    <item>
+      <title>Mastering DevOps Magic with GitHub Actions CI/CD</title>
+      <link>https://Venura-94.github.io/publication/chapter-2/</link>
+      <pubDate>Fri, 23 Feb 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/publication/chapter-2/</guid>
+      <description>Embarking on the captivating journey of machine learning (ML) entails not only solving complex problems but also mastering the art of managing ML projects effectively. In this blog, I advocate for following Abid Ali Awan&amp;rsquo;s comprehensive guide on CI/CD concepts and GitHub Actions to acquaint oneself with these invaluable tools in the context of ML.&#xA;CI/CD, short for Continuous Integration and Continuous Development, through GitHub Actions, offers a plethora of benefits in the realm of ML:</description>
+    </item>
+  </channel>
+</rss>

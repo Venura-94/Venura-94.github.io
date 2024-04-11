@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dimension Reduction on Home</title>
+    <link>https://Venura-94.github.io/tags/dimension-reduction/</link>
+    <description>Recent content in Dimension Reduction on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 12 Mar 2024 10:58:08 -0400</lastBuildDate>
+    <atom:link href="https://Venura-94.github.io/tags/dimension-reduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring Base Dimension Reduction PCA Technique for Going Forward in ML</title>
+      <link>https://Venura-94.github.io/publication/chapter-3/</link>
+      <pubDate>Tue, 12 Mar 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/publication/chapter-3/</guid>
+      <description>Delving into the fascinating world of clustering projects, I found myself intrigued by Principal Component Analysis (PCA), prompting me to consider it as a subject for an upcoming blog. PCA, a linear method, aims to retain a dataset&amp;rsquo;s variance while reducing its dimensionality by transforming initial features into uncorrelated primary components. This technique proves invaluable in scenarios where datasets exhibit high dimensionality, making it challenging to see underlying patterns. By standardizing the dataset and following a stepwise approach, PCA facilitates the identification of principal components, which capture the highest variance in the data.</description>
+    </item>
+  </channel>
+</rss>

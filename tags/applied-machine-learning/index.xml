@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Applied Machine Learning on Home</title>
+    <link>https://Venura-94.github.io/tags/applied-machine-learning/</link>
+    <description>Recent content in Applied Machine Learning on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 29 Mar 2024 10:58:08 -0400</lastBuildDate>
+    <atom:link href="https://Venura-94.github.io/tags/applied-machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ensemble Learning</title>
+      <link>https://Venura-94.github.io/publication/chapter-4/</link>
+      <pubDate>Fri, 29 Mar 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/publication/chapter-4/</guid>
+      <description>This article provides an overview of ensemble learning algorithms through a course available on LinkedIn Learning, instructed by Derek Jedamski. The course assumes familiarity with individual machine learning algorithms such as logistic regression, support vector machines, MLP, and random forest. The summary delves into three prominent ensemble methods: Boosting, Bagging, and Stacking, elucidating their mechanisms, applications, and effectiveness in reducing prediction errors. Boosting involves sequentially learning weak models, leveraging their collective knowledge to form a robust final model.</description>
+    </item>
+  </channel>
+</rss>

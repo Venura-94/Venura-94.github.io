@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Streamlit on Home</title>
+    <link>https://Venura-94.github.io/tags/streamlit/</link>
+    <description>Recent content in Streamlit on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Mar 2024 10:58:08 -0400</lastBuildDate>
+    <atom:link href="https://Venura-94.github.io/tags/streamlit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interactive Dashboards to Understand Data Scientist Job Locations and Job Types in 2024</title>
+      <link>https://Venura-94.github.io/post/chapter-3/</link>
+      <pubDate>Mon, 25 Mar 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/post/chapter-3/</guid>
+      <description>Project Structure&#xA;Task 1: Obtained the dataset from Kaggle, ensuring we had the necessary data to analyze.&#xA;Task 2: Transformed simple Python scripts into web applications, making the analysis accessible through a user-friendly interface.&#xA;Task 3: Loaded the dataset containing job data for data scientists in 2024, preparing it for visualization.&#xA;Task 4: Implemented functionality to display job types in the sidebar, enhancing user navigation and interaction.&#xA;Task 5: Developed interactive bar plots and pie charts to visually represent key insights from the data.</description>
+    </item>
+  </channel>
+</rss>

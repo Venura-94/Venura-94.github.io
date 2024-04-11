@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Home</title>
+    <link>https://Venura-94.github.io/tags/python/</link>
+    <description>Recent content in Python on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 05 Apr 2024 10:58:08 -0400</lastBuildDate>
+    <atom:link href="https://Venura-94.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Similarity Based Food Recommendation System</title>
+      <link>https://Venura-94.github.io/post/chapter-8/</link>
+      <pubDate>Fri, 05 Apr 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/post/chapter-8/</guid>
+      <description>Focus of the Project The focus of this project is to determine the similarity between users and recommend items based on food interactions by other similar users.&#xA;Project Structure Task 1: Understand collaborative filtering and data collection methods for building a recommendation system. Load necessary libraries and datasets into the Jupyter Notebook session. Task 2: Conduct exploratory data analysis on the dataset. Analyze user interactions with items, such as identifying the most interacted item and users with the highest interaction counts.</description>
+    </item>
+    <item>
+      <title>HR Morning Email Automation</title>
+      <link>https://Venura-94.github.io/post/chapter-2/</link>
+      <pubDate>Sat, 23 Mar 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/post/chapter-2/</guid>
+      <description>In this project, I developed an Email Automation Package using Python with various functionalities. Here&amp;rsquo;s a breakdown of the tasks carried out:&#xA;Task 1: Retrieving Content from the Internet Automated the extraction of random quotes and saved them to a CSV file using web scraping techniques with BeautifulSoup. Integrated weather forecast retrieval for a one-day period within a three-hour time frame using a REST API. Implemented a random learning generator utilizing Wikipedia&amp;rsquo;s REST API.</description>
+    </item>
+    <item>
+      <title>Analyzing Total Revenue and Stock Price Trends of Tesla and GameStop</title>
+      <link>https://Venura-94.github.io/post/chapter-6/</link>
+      <pubDate>Sat, 30 Dec 2023 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/post/chapter-6/</guid>
+      <description>The &amp;ldquo;Extracting-and-Visualizing-Stock-Data&amp;rdquo; project aims to provide a comprehensive analysis of the stock performance and revenue trends of Tesla and GameStop. Leveraging a combination of Python libraries including BeautifulSoup for web scraping and yfinance for accessing stock data, this project delves into various aspects to offer insights into the financial performance of these companies.&#xA;Extracting Tesla Stock Data Utilizing the yfinance library, the project extracts historical stock data of Tesla, including opening and closing prices, trading volume, and other relevant metrics.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MySQL on Home</title>
+    <link>https://Venura-94.github.io/tags/mysql/</link>
+    <description>Recent content in MySQL on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Mar 2024 10:58:08 -0400</lastBuildDate>
+    <atom:link href="https://Venura-94.github.io/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Retrieval Queries in MySQL Workbench</title>
+      <link>https://Venura-94.github.io/post/chapter-5/</link>
+      <pubDate>Mon, 25 Mar 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/post/chapter-5/</guid>
+      <description>MySQL Project Workbench, your ultimate solution for effortlessly crafting and executing complex retrieval queries. Throughout this project, I&amp;rsquo;ve delved into various aspects of database querying, honing my skills and expertise. Here&amp;rsquo;s a glimpse into the tasks undertaken:&#xA;EER Diagram: Visual representation aiding in database design and understanding.&#xA;Joining with Where Clause: Utilizing WHERE clause for precise data retrieval through table joins.&#xA;Join with Join Statements: Exploring inner and outer joins to extract matched and unmatched data from multiple tables.</description>
+    </item>
+  </channel>
+</rss>
