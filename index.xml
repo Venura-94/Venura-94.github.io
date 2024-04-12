@@ -6,8 +6,15 @@
     <description>Recent content in Hi Im Venura Pussella on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Apr 2024 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2024 10:58:08 -0400</lastBuildDate>
     <atom:link href="https://Venura-94.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fake News Detection with LSTM</title>
+      <link>https://Venura-94.github.io/post/chapter-10/</link>
+      <pubDate>Sat, 06 Apr 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/post/chapter-10/</guid>
+      <description>Project Architecture Apply Python Libraries for Data Import and Visualization Utilize Python libraries such as Pandas, NumPy, and Matplotlib/Seaborn for importing datasets and creating visualizations to gain insights into the data.&#xA;Exploratory Data Analysis and Word Cloud Plotting Perform exploratory data analysis (EDA) to understand the structure and characteristics of the dataset. Generate word clouds to visualize the frequency of words in the text data.&#xA;Text Data Cleaning Implement text data cleaning techniques such as removing punctuation and stop words to prepare the text data for further analysis.</description>
+    </item>
     <item>
       <title>Similarity Based Food Recommendation System</title>
       <link>https://Venura-94.github.io/post/chapter-8/</link>
