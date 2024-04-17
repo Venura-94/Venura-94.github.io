@@ -23,6 +23,13 @@
       <description>Focus of the Project The focus of this project is to determine the similarity between users and recommend items based on food interactions by other similar users.&#xA;Project Structure Task 1: Understand collaborative filtering and data collection methods for building a recommendation system. Load necessary libraries and datasets into the Jupyter Notebook session. Task 2: Conduct exploratory data analysis on the dataset. Analyze user interactions with items, such as identifying the most interacted item and users with the highest interaction counts.</description>
     </item>
     <item>
+      <title>Revenue Analysis &amp; Growth Trends</title>
+      <link>https://Venura-94.github.io/post/chapter-11/</link>
+      <pubDate>Tue, 02 Apr 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/post/chapter-11/</guid>
+      <description>Project Workflow Summary of the Insights Generated The dynamic project &amp;ldquo;Revenue Analysis &amp;amp; Growth Trends&amp;rdquo; looks at growth paths and sales patterns in the context of businesses. This project undertakes an extensive analysis of revenue streams by utilizing state-of-the-art technologies like Python, Pandas, REST API, SQL, and Microsoft SQL Server. This allows for comprehensive comparisons across different categories, regions, and times.&#xA;It provides actionable insights into sales performance through careful data processing and visualization, supporting sustainable growth strategies and assisting in strategic decision-making.</description>
+    </item>
+    <item>
       <title>Road Sign Classification with Convolutional Neural Networks</title>
       <link>https://Venura-94.github.io/post/chapter-9/</link>
       <pubDate>Mon, 01 Apr 2024 10:58:08 -0400</pubDate>
