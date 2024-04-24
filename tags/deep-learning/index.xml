@@ -6,21 +6,21 @@
     <description>Recent content in Deep Learning on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Apr 2024 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 10:58:08 -0400</lastBuildDate>
     <atom:link href="https://Venura-94.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Road Sign Classification with Convolutional Neural Networks</title>
+      <link>https://Venura-94.github.io/post/chapter-9/</link>
+      <pubDate>Thu, 11 Apr 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/post/chapter-9/</guid>
+      <description>Introduction In this project, I utilized Convolutional Neural Networks (CNNs) to classify 43 different traffic sign images. The goal was to create a model with practical applications, especially in the context of self-driving cars. Below is a summary of the steps involved in the project.&#xA;1. Understanding Image Data I began by importing necessary libraries and datasets. However, due to the large size of the dataset, it wasn&amp;rsquo;t feasible to include it in the GitHub repository.</description>
+    </item>
     <item>
       <title>Fake News Detection with LSTM</title>
       <link>https://Venura-94.github.io/post/chapter-10/</link>
       <pubDate>Sat, 06 Apr 2024 10:58:08 -0400</pubDate>
       <guid>https://Venura-94.github.io/post/chapter-10/</guid>
       <description>Project Architecture Apply Python Libraries for Data Import and Visualization Utilize Python libraries such as Pandas, NumPy, and Matplotlib/Seaborn for importing datasets and creating visualizations to gain insights into the data.&#xA;Exploratory Data Analysis and Word Cloud Plotting Perform exploratory data analysis (EDA) to understand the structure and characteristics of the dataset. Generate word clouds to visualize the frequency of words in the text data.&#xA;Text Data Cleaning Implement text data cleaning techniques such as removing punctuation and stop words to prepare the text data for further analysis.</description>
-    </item>
-    <item>
-      <title>Road Sign Classification with Convolutional Neural Networks</title>
-      <link>https://Venura-94.github.io/post/chapter-9/</link>
-      <pubDate>Mon, 01 Apr 2024 10:58:08 -0400</pubDate>
-      <guid>https://Venura-94.github.io/post/chapter-9/</guid>
-      <description>Introduction In this project, I utilized Convolutional Neural Networks (CNNs) to classify 43 different traffic sign images. The goal was to create a model with practical applications, especially in the context of self-driving cars. Below is a summary of the steps involved in the project.&#xA;1. Understanding Image Data I began by importing necessary libraries and datasets. However, due to the large size of the dataset, it wasn&amp;rsquo;t feasible to include it in the GitHub repository.</description>
     </item>
   </channel>
 </rss>

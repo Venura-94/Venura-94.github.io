@@ -16,6 +16,13 @@
       <description>Target Audience Empowering banks with critical insights into factors influencing loan defaults, predictive model aims to refine loan authorization processes and risk assessments.&#xA;Link to GitHub&#xA;Learning Outcomes: Applied machine learning, model creation, error reduction and tuning techniques (supervised learning) Machine Learning Pipelines (Training Pipeline, Prediction pipeline (inference Pipeline)) AWS / Github actions (CI/CD) Docker Python virtual environments Basic web development Flask How to maintain folder architecture for production ready projects Check github to see the pipelines &amp;amp; AWS delpoyment architectures Model Deployment Explanation: Local Development (PC using Git):</description>
     </item>
     <item>
+      <title>Road Sign Classification with Convolutional Neural Networks</title>
+      <link>https://Venura-94.github.io/post/chapter-9/</link>
+      <pubDate>Thu, 11 Apr 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/post/chapter-9/</guid>
+      <description>Introduction In this project, I utilized Convolutional Neural Networks (CNNs) to classify 43 different traffic sign images. The goal was to create a model with practical applications, especially in the context of self-driving cars. Below is a summary of the steps involved in the project.&#xA;1. Understanding Image Data I began by importing necessary libraries and datasets. However, due to the large size of the dataset, it wasn&amp;rsquo;t feasible to include it in the GitHub repository.</description>
+    </item>
+    <item>
       <title>Fake News Detection with LSTM</title>
       <link>https://Venura-94.github.io/post/chapter-10/</link>
       <pubDate>Sat, 06 Apr 2024 10:58:08 -0400</pubDate>
@@ -35,13 +42,6 @@
       <pubDate>Tue, 02 Apr 2024 10:58:08 -0400</pubDate>
       <guid>https://Venura-94.github.io/post/chapter-11/</guid>
       <description>Project Workflow Summary of the Insights Generated The dynamic project &amp;ldquo;Revenue Analysis &amp;amp; Growth Trends&amp;rdquo; looks at growth paths and sales patterns in the context of businesses. This project undertakes an extensive analysis of revenue streams by utilizing state-of-the-art technologies like Python, Pandas, REST API, SQL, and Microsoft SQL Server. This allows for comprehensive comparisons across different categories, regions, and times.&#xA;It provides actionable insights into sales performance through careful data processing and visualization, supporting sustainable growth strategies and assisting in strategic decision-making.</description>
-    </item>
-    <item>
-      <title>Road Sign Classification with Convolutional Neural Networks</title>
-      <link>https://Venura-94.github.io/post/chapter-9/</link>
-      <pubDate>Mon, 01 Apr 2024 10:58:08 -0400</pubDate>
-      <guid>https://Venura-94.github.io/post/chapter-9/</guid>
-      <description>Introduction In this project, I utilized Convolutional Neural Networks (CNNs) to classify 43 different traffic sign images. The goal was to create a model with practical applications, especially in the context of self-driving cars. Below is a summary of the steps involved in the project.&#xA;1. Understanding Image Data I began by importing necessary libraries and datasets. However, due to the large size of the dataset, it wasn&amp;rsquo;t feasible to include it in the GitHub repository.</description>
     </item>
     <item>
       <title>Interactive Dashboards to Understand Data Scientist Job Locations and Job Types in 2024</title>
