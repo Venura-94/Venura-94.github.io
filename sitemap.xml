@@ -2,28 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Venura-94.github.io/post/chapter-7/</loc>
-    <lastmod>2024-04-12T10:58:08-04:00</lastmod>
+    <loc>https://Venura-94.github.io/tags/deep-learning/</loc>
+    <lastmod>2024-05-06T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://Venura-94.github.io/post/chapter-12/</loc>
+    <lastmod>2024-05-06T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://Venura-94.github.io/</loc>
+    <lastmod>2024-05-06T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://Venura-94.github.io/tags/</loc>
+    <lastmod>2024-05-06T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://Venura-94.github.io/post/chapter-7/</loc>
     <lastmod>2024-04-12T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://Venura-94.github.io/tags/machine-learning/</loc>
     <lastmod>2024-04-12T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://Venura-94.github.io/tags/</loc>
-    <lastmod>2024-04-12T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://Venura-94.github.io/tags/deep-learning/</loc>
-    <lastmod>2024-04-11T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

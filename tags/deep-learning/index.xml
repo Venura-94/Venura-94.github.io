@@ -6,8 +6,15 @@
     <description>Recent content in Deep Learning on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Apr 2024 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 10:58:08 -0400</lastBuildDate>
     <atom:link href="https://Venura-94.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Food Classification with InceptionResNetV2</title>
+      <link>https://Venura-94.github.io/post/chapter-12/</link>
+      <pubDate>Mon, 06 May 2024 10:58:08 -0400</pubDate>
+      <guid>https://Venura-94.github.io/post/chapter-12/</guid>
+      <description>Summary of the Project Objectives Understand the theory and intuition behind Convolutional Neural Networks (CNNs). Create Python 3.9 environment with dependencies to import and visualize dataset images. Perform Data Augmentation and Image Normalization Theory and intuition behind transfer learning Build a Deep Learning Model using Pre-Trained InceptionResnetV2 ( by loading the weights) Compile and fit Deep Learning model to training data Assess the performance of trained CNN and ensure its generalization using various KPIs such as accuracy, precision and recal Link to GitHub</description>
+    </item>
     <item>
       <title>Road Sign Classification with Convolutional Neural Networks</title>
       <link>https://Venura-94.github.io/post/chapter-9/</link>
